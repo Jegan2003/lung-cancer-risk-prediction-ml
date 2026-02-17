@@ -92,13 +92,14 @@ python Src/Lung cancer project.py
 - SHAP Summary Plot  
 
 ---
-
 ## 📷 Sample Outputs
 
+![System Architecture](images/system_architecture.png)
 ![Heatmap](images/heatmap.png)
 ![ROC Curve](images/roc_curve.png)
+![Confusion Matrix](images/confusion_matrix.png)
 ![Feature Importance](images/feature_importance.png)
-![SHAP](images/shap_summary.png)
+![SHAP Summary](images/shap_summary.png)
 
 ---
 
